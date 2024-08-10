@@ -102,6 +102,8 @@ eksdemo get cluster
 ```
 ![Screenshot 2024-08-07 152520](https://github.com/user-attachments/assets/21b329c7-4861-44a9-8e03-62996642dec4)
 
+The above command will show the EKS Cluster details in a user-friendly table format.
+
 - You can also explore the `AWS Console` to see the EKS Cluster details and the resources provisioned for the EKS Cluster.
 ![Screenshot 2024-08-07 152609](https://github.com/user-attachments/assets/1c559f3e-a999-4a23-82d9-4f5e76fa376d)
 ![Screenshot 2024-08-07 152629](https://github.com/user-attachments/assets/4ee670d7-10a9-42ce-ba78-68d95c40574f)
